@@ -109,13 +109,9 @@ stack:       Node.js · Django · SQL/NoSQL
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark" alt="javascript" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark" alt="python" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark" alt="nodejs" width="58" height="58" />
-  &nbsp;&nbsp;
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark" alt="django" width="58" height="58" />
+
+<img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/featured.svg" alt="JavaScript, Python, Node.js, and Django" width="318" height="72" />
+
 </div>
 
 <br/>
@@ -124,38 +120,25 @@ stack:       Node.js · Django · SQL/NoSQL
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js&theme=dark&animate=true" width="48" height="48" alt="javascript" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=py&theme=dark&animate=true" width="48" height="48" alt="python" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html&theme=dark&animate=true" width="48" height="48" alt="html" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css&theme=dark&animate=true" width="48" height="48" alt="css" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark&animate=true" width="48" height="48" alt="git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&animate=true" width="48" height="48" alt="github" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/languages.svg" alt="JavaScript, Python, HTML, CSS, Git, and GitHub" width="322" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>🤖 Backend</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs&theme=dark&animate=true" width="48" height="48" alt="nodejs" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=express&theme=dark&animate=true" width="48" height="48" alt="express" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=django&theme=dark&animate=true" width="48" height="48" alt="django" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman&theme=dark&animate=true" width="48" height="48" alt="postman" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/backend.svg" alt="Node.js, Express, Django, and Postman" width="212" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>🗄️ Data</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb&theme=dark&animate=true" width="48" height="48" alt="mongodb" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark&animate=true" width="48" height="48" alt="postgres" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/data.svg" alt="MongoDB, PostgreSQL, and MySQL" width="158" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>☁️ Cloud</b></td>
 <td>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark&animate=true" width="48" height="48" alt="google cloud" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/cloud.svg" alt="Google Cloud, Docker, AWS, and Azure" width="212" height="48" />
 </td>
 </tr>
 </table>
