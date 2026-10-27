@@ -223,7 +223,8 @@ stack:       Node.js · Django · SQL/NoSQL
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajahwisdomagaba&theme=github_dark" alt="repos per language"/>
 <img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajahwisdomagaba&theme=github_dark&utcOffset=1" alt="productive time"/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajahwisdomagaba&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ajahwisdomagaba)
+<!-- github-readme-activity-graph.vercel.app is paused (HTTP 402). Same API, live fork: -->
+[![Activity Graph](https://github-act-graph.rodriaum.com/graph?username=ajahwisdomagaba&bg_color=0D1117&color=58A6FF&line=1DA1F2&point=ffffff&area=true&hide_border=true)](https://github.com/ajahwisdomagaba)
 
 </div>
 
