@@ -149,6 +149,15 @@ stack:       Node.js · Django · SQL/NoSQL
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark&animate=true" width="48" height="48" alt="mysql" />
 </td>
 </tr>
+<tr>
+<td align="right"><b>☁️ Cloud</b></td>
+<td>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark&animate=true" width="48" height="48" alt="google cloud" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark&animate=true" width="48" height="48" alt="docker" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aws&theme=dark&animate=true" width="48" height="48" alt="aws" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=azure&theme=dark&animate=true" width="48" height="48" alt="azure" />
+</td>
+</tr>
 </table>
 
 <div align="center">
@@ -165,6 +174,13 @@ stack:       Node.js · Django · SQL/NoSQL
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A2E?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1A1A2E?style=flat-square&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-1A1A2E?style=flat-square&logo=postman&logoColor=white)
+
+**☁️ Cloud**
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-1A1A2E?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1A1A2E?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1A1A2E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-1A1A2E?style=flat-square&logo=microsoftazure&logoColor=white)
 
 </div>
 
