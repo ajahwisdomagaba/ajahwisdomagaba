@@ -110,7 +110,7 @@ stack:       Node.js · Django · SQL/NoSQL
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/featured.svg" alt="JavaScript, Python, Node.js, and Django" width="318" height="72" />
+<img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/featured.svg?v=2" alt="JavaScript, Python, Node.js, and Django" width="318" height="72" />
 
 </div>
 
@@ -120,25 +120,25 @@ stack:       Node.js · Django · SQL/NoSQL
 <tr>
 <td align="right" width="170"><b>🧠 Languages & Core</b></td>
 <td>
-  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/languages.svg" alt="JavaScript, Python, HTML, CSS, Git, and GitHub" width="322" height="48" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/languages.svg?v=2" alt="JavaScript, Python, HTML, CSS, Git, and GitHub" width="322" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>🤖 Backend</b></td>
 <td>
-  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/backend.svg" alt="Node.js, Express, Django, and Postman" width="212" height="48" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/backend.svg?v=2" alt="Node.js, Express, Django, and Postman" width="212" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>🗄️ Data</b></td>
 <td>
-  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/data.svg" alt="MongoDB, PostgreSQL, and MySQL" width="158" height="48" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/data.svg?v=2" alt="MongoDB, PostgreSQL, and MySQL" width="158" height="48" />
 </td>
 </tr>
 <tr>
 <td align="right"><b>☁️ Cloud</b></td>
 <td>
-  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/cloud.svg" alt="Google Cloud, Docker, AWS, and Azure" width="212" height="48" />
+  <img src="https://raw.githubusercontent.com/ajahwisdomagaba/ajahwisdomagaba/main/assets/stack/cloud.svg?v=2" alt="Google Cloud, Docker, AWS, and Azure" width="212" height="48" />
 </td>
 </tr>
 </table>
