@@ -8,7 +8,7 @@
 #### Full-Stack Software Engineer · Backend Developer · Computer Science Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+Engineer;Backend+APIs+with+Node.js+%26+Django;TechCrush+Backend+Bootcamp+Graduate;Computer+Science+%7C+Ambrose+Ali+University;Building+from+Lagos%2C+Nigeria" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Full-Stack+Software+Engineer;Backend+APIs+with+Node.js+%26+Django;Frontend+with+React.js;TechCrush+Backend+Bootcamp+Graduate;Computer+Science+%7C+Ambrose+Ali+University;Building+from+Lagos%2C+Nigeria" alt="Typing SVG" />
 </a>
 
 </div>
